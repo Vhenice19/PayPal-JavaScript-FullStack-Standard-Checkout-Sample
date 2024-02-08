@@ -20,4 +20,6 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
-}
+} <div> npm i dotenv
+<div> npm i express
+<div> npm i node-fetch
